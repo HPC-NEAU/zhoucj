@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "周长建 / AI药物设计组"
+site_theme               : "default"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://hpc-neau.github.io/cjzhou/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hpc-neau.github.io/cjzhou"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +23,13 @@ repository               : "hpc-neau.github.io/cjzhou"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "周长建"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "博士<br>高级工程师<br>系统分析师<br>硕士研究生导师<br>校高性能计算平台负责人"
-  location         : "哈尔滨"
-  employer         : "东北农业大学"
-  uri              : http://dscx.neau.edu.cn/ndbssds/detail_ZGVDaEhxakNH_2.html
-  email            : "zhouchangjian@neau.edu.cn" 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
