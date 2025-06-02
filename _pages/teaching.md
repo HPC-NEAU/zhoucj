@@ -39,6 +39,12 @@ redirect_from:
 	<li>余&emsp;璐&emsp;&emsp;2022级本科生</li>
 </ul>
 
+	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
+<ul>
+	<li>王硕祥&emsp;&emsp;2025级硕士研究生</li>
+	<li>张钰童&emsp;&emsp;2025级硕士研究生</li>
+</ul>
+
 		<font face="微软雅黑" size=4><b>客座学生</b></font>
 <ul>
 	<li>向家玉&emsp;&emsp;本科生&emsp;&emsp;中国农业大学</li>
@@ -64,7 +70,7 @@ redirect_from:
 	<li>张艺千&emsp;&emsp;2021级本科生&emsp;&emsp;东南大学（读研）</li>
 	<li>张&emsp;扬&emsp;&emsp;2021级本科生&emsp;&emsp;武汉大学（读研）</li>
 	<li>钟题声&emsp;&emsp;2021级本科生&emsp;&emsp;深圳大学（读研）</li>
-	<li>张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;待定</li>
+	<li>张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;吉林大学（读研）</li>
 	<li>闫笑川&emsp;&emsp;2021级本科生&emsp;&emsp;待定</li>
 </ul>
 
