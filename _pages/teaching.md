@@ -31,6 +31,8 @@ redirect_from:
 </ul>  
 	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
 <ul>
+	<li>王硕祥&emsp;&emsp;2025级硕士研究生</li>
+	<li>张钰童&emsp;&emsp;2025级硕士研究生</li>
 	<li>刘禹彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>凌彤彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>王文慧&emsp;&emsp;2024级硕士研究生</li>
@@ -39,13 +41,7 @@ redirect_from:
 	<li>余&emsp;璐&emsp;&emsp;2022级本科生</li>
 </ul>
 
-	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
-<ul>
-	<li>王硕祥&emsp;&emsp;2025级硕士研究生</li>
-	<li>张钰童&emsp;&emsp;2025级硕士研究生</li>
-</ul>
-
-		<font face="微软雅黑" size=4><b>客座学生</b></font>
+	 <font face="微软雅黑" size=4><b>客座学生</b></font>
 <ul>
 	<li>向家玉&emsp;&emsp;本科生&emsp;&emsp;中国农业大学</li>
 	<li>李嘉丰&emsp;&emsp;研究生&emsp;&emsp;Cornell University</li>
