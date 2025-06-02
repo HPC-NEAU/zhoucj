@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<p style="line-height:2.0">
+	<font face="微软雅黑" size=3>
+		<font face="微软雅黑" size=4><b>个人简介</b></font>
+<br>
+&emsp;&emsp;<b>周长建</b>，1984年7月生，博士，高级工程师，系统分析师（高级资格）、硕士研究生导师，校级高性能计算平台负责人。毕业于哈尔滨工程大学计算机专业，现任东北农业大学现代教育技术中心数据与计算部主任，黑龙江省农业微生物重点实验室微生物农药研究团队骨干成员。兼任中国计算机学会高级会员、中国计算机学会高性能计算专业委员会执行委员、CCF YOCSEF 哈尔滨AC委员、黑龙江省计算机学会青年工作委员会执行委员等职务。主要从事数据治理与数据分析、高性能计算、人工智能与药物设计等领域的研究及开发工作。目前主持国家重点研发项目子课题1项，省部级课题3项，中国教育技术协会智慧校园专项课题2项，以第一或通讯作者发表研究论文20余篇，其中SCI二区及以上论文5篇，以第一发明人获授权国家发明专利4项，软件著作权80余项；创立了大学生创新创业实践团队“智能计算实训中心”，获得全国高等农业院校教育信息化建设先进工作者、黑龙江省第七届“知识产权杯”高校发明创新竞赛优秀指导教师、第十七届iCAN 大学生创新创业大赛（黑龙江赛区）优秀指导教师等荣誉称号。<br>
+<br>
+		<font face="微软雅黑" size=4><b>学习经历</b></font>
+<ul>
+	<li>博士&emsp;&emsp;东北农业大学&emsp;&emsp;微生物学</li>
+	<li>硕士&emsp;&emsp;哈尔滨工程大学&emsp;计算机科学与技术</li>
+	<li>学士&emsp;&emsp;黑龙江大学&emsp;&emsp;&emsp;信息管理与信息系统</li>
+</ul>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+		<font face="微软雅黑" size=4><b>工作经历</b></font>
+<ul>
+	<li>2023年12月至今: 东北农业大学硕士研究生导师</li>
+	<li>2021年7月至今: 东北农业大学现代教育技术中心数据与计算部主任</li>
+	<li>2011年9月至今: 东北农业大学助理工程师、工程师、高级工程师</li>	
+</ul>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+		<font face="微软雅黑" size=4><b>社会兼职</b></font>
+<ul>
+	<li>中国计算机学会高级会员</li>
+	<li>中国计算机学会高性能计算专业委员会执行委员</li>
+	<li>CCF YOCSEF 哈尔滨AC委员</li> 
+	<li>黑龙江省计算机学会计算机应用专业委员会委员</li>
+	<li>黑龙江省计算机学会青年工作委员会执行委员</li>
+	<li>黑龙江省计算机学会专委工委委员</li>
+</ul>
+	</font>
+</p>
