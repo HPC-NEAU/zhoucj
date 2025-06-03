@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-# ![][(https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG](https://github.com/HPC-NEAU/zhoucj/blob/master/images/IMG_5637.JPG?raw=true))
 
-<img src="[https://example.com/image.png](https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG)" width="200">
+<img src="[https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG" width="200">
 
