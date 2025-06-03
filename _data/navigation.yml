@@ -23,8 +23,8 @@ main:
   - title: "Linux基础"
     url: /Linux/
     
-   - title: "实验室风采"
-     url: /scenery/
+  # - title: "实验室风采"
+  #   url: /scenery/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "实验室风采"
+    url: /markdown/
