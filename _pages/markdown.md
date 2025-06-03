@@ -9,4 +9,4 @@ redirect_from:
 
 
 
-![]([图片路径](https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG)
+![校长与实验室毕业生合影](https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG)
