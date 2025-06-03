@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /lab/
 title: "实验室风采"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /lab/
+  - /lab.html
 ---
 
 
