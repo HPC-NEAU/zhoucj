@@ -49,8 +49,6 @@ redirect_from:
 
 		<font face="微软雅黑" size=4><b>毕业生及去向</b></font>
 
-<img src="images/IMG_5645.JPG" alt="2025届毕业生合影">
-  
 <ul>
 	<li>张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;吉林大学（读研）</li>
 	<li>李中正&emsp;&emsp;2021级本科生&emsp;&emsp;北京理工大学（读研）</li>
