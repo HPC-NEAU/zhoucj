@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /scenery/
-author_profile: false
+author_profile: true
 redirect_from:
-  - /resume-json
+  - /resume
 ---
 
 {% include base_path %}
