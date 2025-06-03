@@ -7,5 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
-![](IMG_5637.JPG)
+![](images/IMG_5637.JPG)
 
