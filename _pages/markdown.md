@@ -7,5 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
-![](images/IMG_5637.JPG)
+![](https://github.com/HPC-NEAU/zhoucj/images/IMG_5637.JPG)
 
