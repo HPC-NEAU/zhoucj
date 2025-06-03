@@ -19,6 +19,9 @@ main:
     
   - title: "教育教学"
     url: /teaching/    
+
+  - title: "实验室风采"
+    url: /lab/
     
   - title: "Linux基础"
     url: /Linux/
@@ -26,5 +29,4 @@ main:
   # - title: "实验室风采"
   #   url: /scenery/
     
-  - title: "实验室风采"
-    url: /markdown/
+
