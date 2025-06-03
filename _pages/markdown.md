@@ -10,5 +10,5 @@ redirect_from:
 666666
 7777
 
-![校长与实验室毕业生合影](https://github.com/HPC-NEAU/zhoucj/blob/master/images/IMG_5645.JPG)
+![校长与实验室毕业生合影](https://hpc-neau/zhoucj//images/IMG_5645.JPG)
 ![test](../images/homepage.png)
