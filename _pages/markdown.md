@@ -11,3 +11,4 @@ redirect_from:
 7777
 
 ![校长与实验室毕业生合影](../images/IMG_5637.JPG)
+![](../images/arxiv.jpg)
