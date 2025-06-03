@@ -21,7 +21,7 @@ main:
     url: /teaching/    
 
   - title: "实验室风采"
-    url: /lab/
+    url: /markdown/
     
   - title: "Linux基础"
     url: /Linux/
