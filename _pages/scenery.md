@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv-json/
+permalink: /scenery/
 author_profile: false
 redirect_from:
   - /resume-json
