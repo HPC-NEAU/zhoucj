@@ -9,7 +9,7 @@ redirect_from:
 <table style="width: 100%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
-      2025届毕业生合影
+      <caption>2025届毕业生合影</caption>
     </th>
   </tr>
   <tr>
@@ -29,10 +29,11 @@ redirect_from:
     </td>
   </tr>
 </table>
+<br>
 <table style="width: 100%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
-      发明专利
+      <caption>发明专利</caption>
     </th>
   </tr>
 <tr>
