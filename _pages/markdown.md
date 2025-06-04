@@ -14,10 +14,10 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_5637.JPG" style="max-width: 100%; height: auto; width: 100%; max-width: 800px;">
+      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_5637.JPG" style="max-width: 100%; height: auto; width: 100%; max-width: 1000px;">
     </td>
     <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_5645.JPG" style="max-width: 100%; height: auto; width: 100%; max-width: 800px;">
+      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_5645.JPG" style="max-width: 100%; height: auto; width: 100%; max-width: 1000px;">
     </td>
   </tr>
   <tr>
