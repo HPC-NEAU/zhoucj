@@ -32,5 +32,8 @@ redirect_from:
 	<li>黑龙江省计算机学会青年工作委员会执行委员</li>
 	<li>黑龙江省计算机学会专委工委委员</li>
 </ul>
+		<font face="微软雅黑" size=4><b>联系方式</b></font>
+	<p style="color:red;">&emsp;&emsp;让我们一起用计算武器破解生物密码，加速绿色农药研发，共创美好家园！</p>
+	&emsp;&emsp;邮箱：zhouchangjian@neau.edu.cn
 	</font>
 </p>
