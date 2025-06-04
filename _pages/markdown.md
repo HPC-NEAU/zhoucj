@@ -29,25 +29,6 @@ redirect_from:
       周老师与2025届毕业生合影（前排左起：钟题声、闫笑川、周老师、李中正、张鑫；后排左起：张艺千、储李节、张杨、王旭）
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_202401.jpg" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
-    </td>
-    <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_202402.jpg" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      周老师与2024届毕业生合影（左起：周老师、赵振元）
-    </td>
-    <td>
-      周老师与2024届毕业生合影（周老师、钟玉杰、赵振元）
-    </td>
-  </tr>
-
-  
 </table>
 
 <br>
