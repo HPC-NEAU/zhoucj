@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<table style="width: 200%; text-align: center;">
+<table style="width: 150%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
       <caption><font face="微软雅黑" size=4><b>2025届毕业生合影</b></font></caption>
@@ -33,7 +33,7 @@ redirect_from:
 
 <br>
 
-<table style="width: 100%; text-align: center;">
+<table style="width: 150%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
       <caption><font face="微软雅黑" size=4><b>发明专利</b></font></caption>
@@ -67,7 +67,7 @@ redirect_from:
 
 <br>
 
-<table style="width: 100%; text-align: center;">
+<table style="width: 150%; text-align: center;">
   <tr>
     <th colspan="4" style="font-size: 1.5em; padding: 10px 0;">
       <caption><font face="微软雅黑" size=4><b>软件著作权</b></font></caption>
@@ -92,7 +92,7 @@ redirect_from:
 
 <br>
 
-<table style="width: 100%; text-align: center;">
+<table style="width: 150%; text-align: center;">
   <tr>
     <th colspan="3" style="font-size: 1.5em; padding: 10px 0;">
       <caption><font face="微软雅黑" size=4><b>获奖证书</b></font></caption>
