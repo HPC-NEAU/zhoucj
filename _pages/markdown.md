@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<table style="width: 100%; text-align: center;">
+<table style="width: 200%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
       <caption><font face="微软雅黑" size=4><b>2025届毕业生合影</b></font></caption>
