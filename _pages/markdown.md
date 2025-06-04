@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "实验室风采"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,7 +9,7 @@ redirect_from:
 <table style="width: 100%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
-      <caption>2025<font face="微软雅黑" size=4><b>届毕业生合影</b></font></caption>
+      <caption><font face="微软雅黑" size=4><b>2025届毕业生合影</b></font></caption>
     </th>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ redirect_from:
 <table style="width: 100%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
-      <caption>2025<font face="微软雅黑" size=4><b>发明专利</b></font></caption>
+      <caption><font face="微软雅黑" size=4><b>发明专利</b></font></caption>
     </th>
   </tr>
 <tr>
