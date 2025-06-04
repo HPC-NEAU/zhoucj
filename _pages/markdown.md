@@ -10,7 +10,7 @@ redirect_from:
 <table style="width: 120%; text-align: center;">
   <tr>
     <th colspan="2" style="font-size: 1.5em; padding: 10px 0;">
-      <caption><font face="微软雅黑" size=4><b>2025届毕业生合影</b></font></caption>
+      <caption><font face="微软雅黑" size=4><b>影像资料</b></font></caption>
     </th>
   </tr>
   <tr>
@@ -29,6 +29,25 @@ redirect_from:
       周老师与2025届毕业生合影（前排左起：钟题声、闫笑川、周老师、李中正、张鑫；后排左起：张艺千、储李节、张杨、王旭）
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_202401.jpg" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+    </td>
+    <td>
+      <img src="https://hpc-neau.github.io/zhoucj/images/IMG_202402.jpg" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      周老师与2024届毕业生合影（左起：周老师、赵振元）
+    </td>
+    <td>
+      周老师与2024届毕业生合影（周老师、钟玉杰、赵振元）
+    </td>
+  </tr>
+
+  
 </table>
 
 <br>
