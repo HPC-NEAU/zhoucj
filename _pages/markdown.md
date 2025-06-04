@@ -101,10 +101,12 @@ redirect_from:
   <tr>
     <td><img src="https://hpc-neau.github.io/zhoucj/images/award_1.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
     <td><img src="https://hpc-neau.github.io/zhoucj/images/award_2.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
-    <td><img src="https://hpc-neau.github.io/zhoucj/images/award_3.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
   </tr>
   <tr>
+    <td><img src="https://hpc-neau.github.io/zhoucj/images/award_3.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
     <td><img src="https://hpc-neau.github.io/zhoucj/images/award_4.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
+  </tr>
+   <tr>
     <td><img src="https://hpc-neau.github.io/zhoucj/images/award_5.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
     <td><img src="https://hpc-neau.github.io/zhoucj/images/award_6.jpg" style="width: 100%; max-width: 1200px; height: auto;"></td>
   </tr>
