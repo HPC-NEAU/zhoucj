@@ -35,7 +35,7 @@ redirect_from:
       发明专利
     </th>
   </tr>
-  <tr>
+<tr>
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_DCGAN.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td>
@@ -43,7 +43,9 @@ redirect_from:
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_DRAE_SVM.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td>
+</tr>
 
+<tr>
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_finegrain.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td>
@@ -51,7 +53,9 @@ redirect_from:
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_RAML.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td>    
+</tr>
 
+<tr>
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_transformer.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td>
@@ -59,8 +63,6 @@ redirect_from:
      <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL.png" style="max-width: 100%; height: auto; width: 100%; max-width: 450px;">
     </td> 
-    
-  </tr>
+ </tr>
   
-
 </table>
