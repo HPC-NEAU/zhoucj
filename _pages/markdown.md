@@ -71,15 +71,15 @@ redirect_from:
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_finegrain.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
     </td>
     <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/ZL_RAML.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+      <img src="https://hpc-neau.github.io/zhoucj/images/ZL_transformer.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/ZL_transformer.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+      <img src="https://hpc-neau.github.io/zhoucj/images/ZL_RAML.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
     </td>
     <td>
-      <img src="https://hpc-neau.github.io/zhoucj/images/ZL.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+      <img src="https://hpc-neau.github.io/zhoucj/images/ZL_malware.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
     </td>
   </tr>
 </table>
