@@ -35,6 +35,19 @@ redirect_from:
 	<li>2020年9月：东北农业大学学生创新创业团队<b>智能计算实训中心</b>成立。</li>
 
 </ul>
+
+<font face="微软雅黑" size=4><b>相关媒体报道</b></font>
+<ul>
+	<li>[东北农业大学校园网主页报道AI组指导教师周长建获全国高等农业院校先进工作者称号](https://www.neau.edu.cn/info/1041/17070.htm)</li>
+	<li>[东北农业大学校园网主页报道AI组成员在全国首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛取得佳绩](https://www.neau.edu.cn/info/1041/17085.htm)</li>
+	<li>[网信黑龙江公众号AI组成员入围首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛决赛](https://mp.weixin.qq.com/s/fMENgNIxjrtVjFPZmQlY8Q)</li>
+	<li>[澎拜新闻报道AI组成员入围首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛决赛](https://m.thepaper.cn/baijiahao_20865663)</li>
+	<li>[东北农业大学校园网主页报道AI组成员在黑龙江省第七届“知识产权杯”高校发明创新竞赛中喜获佳绩](https://www.neau.edu.cn/info/1041/15578.htm)</li>
+	<li>[东北农业大学校园网主页报道AI组成员第二届IPv6技术应用创新大赛科教赛道暨第七届下一代互联网技术创新大赛中再创佳绩](https://www.neau.edu.cn/info/1057/26556.htm)</li>
+	<li>[哈尔滨新闻网报道AI组成员在第二届IPv6技术应用创新大赛科教赛道再创佳绩](https://www.my399.com/2024/11-18/n1KA65GD.html)</li>
+	<li>[AI组成员储李节同学荣获东北农业大学2024年大学生年度人物称号](https://www.neau.edu.cn/info/1057/26665.htm)</li>
+
+</ul>
 </font>    
 
 
