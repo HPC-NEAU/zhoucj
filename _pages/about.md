@@ -39,6 +39,7 @@ redirect_from:
 <ul>
   <li><a href="https://www.neau.edu.cn/info/1041/17070.htm">东北农业大学校园网主页报道AI组指导教师周长建获全国高等农业院校先进工作者称号</a></li>
   <li><a href="https://nic.nefu.edu.cn/info/1017/1443.htm">AI组指导教师周长建受邀为东北林业大学数字化建设处做信息化建设工作和数据治理工作交流</a></li>
+  <li><a href="https://www.edu.cn/xxh/zt/29cernet/dt/202311/t20231129_2535497.shtml">AI组指导教师周长建受邀在中国教育和科研计算机网CERNET第二十八/二十九届学术年会网络安全论坛上作报告</a></li>
   <li><a href="https://www.neau.edu.cn/info/1041/17085.htm">东北农业大学校园网主页报道AI组成员在全国首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛取得佳绩</a></li>
   <li><a href="https://mp.weixin.qq.com/s/fMENgNIxjrtVjFPZmQlY8Q">网信黑龙江公众号AI组成员入围首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛决赛</a></li>
   <li><a href="https://m.thepaper.cn/baijiahao_20865663">澎拜新闻报道AI组成员入围首届IPv6技术应用创新大赛科教赛道暨第六届下一代互联网技术创新大赛决赛</a></li>
