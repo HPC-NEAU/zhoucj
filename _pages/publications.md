@@ -60,9 +60,7 @@ redirect_from:
 	<li> <b>Changjian Zhou</b>, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, Journal of Information Processing Systems, vol. 17, no. 1, pp. 124-135, 2021. (EI)</li>
 	<li> <b>Changjian Zhou</b> , Jinge Xing * . Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
 	<li> <b>Changjian Zhou</b>, Yutong Zhang, and Wenzhong Zhao*. Corp Leaf Disease Identification using Deep Transfer Learning. Journal of Information Processing Systems. vol. 20, no. 2, pp. 149-158, 2024.04.  (EI)</li>
-	<li> Haibo Liu,<b>Changjian Zhou</b>, Jing Shen, Pingke Li and Shengping Zhang. Video Caption Detection Algorithm Based on Multiple Instance Learning. ICICSE10, Harbin, China, 2010. (EI)</li>
 	<li> Xue Han, Wenzhuo Chen, <b>Changjian Zhou</b>. Musical Genre Classification based on Deep Residual Auto-Encoder and Support Vector Machine. Journal of Information Processing Systems. vol. 20, no.1, pp.13-23, 2024.02. (EI) </li>
-	<li> Haibo Liu, <b>Changjian Zhou</b>, Jing Shen. A Survey on Video Caption Extraction. ICICSE10, Harbin, China, 2010. (EI)</li>
 	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI)</li>
 
