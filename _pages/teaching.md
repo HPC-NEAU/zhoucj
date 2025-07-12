@@ -43,7 +43,6 @@ redirect_from:
 
 	 <font face="微软雅黑" size=4><b>客座学生</b></font>
 <ul>
-	<li>向家玉&emsp;&emsp;本科生&emsp;&emsp;中国农业大学</li>
 	<li>李嘉丰&emsp;&emsp;研究生&emsp;&emsp;Cornell University</li>
 </ul>
 
