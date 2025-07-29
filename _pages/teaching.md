@@ -49,26 +49,26 @@ redirect_from:
 		<font face="微软雅黑" size=4><b>毕业生及去向</b></font>
 
 <ul>
-	<li>张&emsp;鑫&emsp;&emsp;2021级本科生&emsp;&emsp;吉林大学（读研）</li>
-	<li>李中正&emsp;&emsp;2021级本科生&emsp;&emsp;北京理工大学（读研）</li>
-	<li>储李节&emsp;&emsp;2021级本科生&emsp;&emsp;中国科学技术大学（读研）</li>
-	<li>张艺千&emsp;&emsp;2021级本科生&emsp;&emsp;东南大学（读研）</li>
-	<li>张&emsp;扬&emsp;&emsp;2021级本科生&emsp;&emsp;武汉大学（读研）</li>
-	<li>钟题声&emsp;&emsp;2021级本科生&emsp;&emsp;深圳大学（读研）</li>
-	<li>王&emsp;旭&emsp;&emsp;2021级本科生&emsp;&emsp;同济大学（读研）</li>
-	<li>闫笑川&emsp;&emsp;2021级本科生&emsp;&emsp;待定</li>
+	<li>张&emsp;鑫&emsp;&emsp;2025界毕业生&emsp;&emsp;吉林大学（读研）</li>
+	<li>李中正&emsp;&emsp;2025界毕业生&emsp;&emsp;北京理工大学（读研）</li>
+	<li>储李节&emsp;&emsp;2025界毕业生&emsp;&emsp;中国科学技术大学（读研）</li>
+	<li>张艺千&emsp;&emsp;2025界毕业生&emsp;&emsp;东南大学（读研）</li>
+	<li>张&emsp;扬&emsp;&emsp;2025界毕业生&emsp;&emsp;武汉大学（读研）</li>
+	<li>钟题声&emsp;&emsp;2025界毕业生&emsp;&emsp;深圳大学（读研）</li>
+	<li>王&emsp;旭&emsp;&emsp;2025界毕业生&emsp;&emsp;同济大学（读研）</li>
+	<li>闫笑川&emsp;&emsp;2025界毕业生&emsp;&emsp;待定</li>
 	<br>
-	<li>赵振元&emsp;&emsp;2020级本科生&emsp;&emsp;山东大学（读研）</li>
-	<li>徐国桓&emsp;&emsp;2020级本科生&emsp;&emsp;华南理工大学（读研）</li>
-	<li>钟玉杰&emsp;&emsp;2020级本科生&emsp;&emsp;中国科学院大学（读研）</li>	
+	<li>赵振元&emsp;&emsp;2024界毕业生&emsp;&emsp;山东大学（读研）</li>
+	<li>徐国桓&emsp;&emsp;2024界毕业生&emsp;&emsp;华南理工大学（读研）</li>
+	<li>钟玉杰&emsp;&emsp;2024界毕业生&emsp;&emsp;中国科学院大学（读研）</li>	
 	<br>
-	<li>冯毓权&emsp;&emsp;2019级本科生&emsp;&emsp;哈尔滨工业大学重庆研究院</li>
-	<li>陈文卓&emsp;&emsp;2019级本科生&emsp;&emsp;大连海事大学（读研）</li>
-	<li>张语桐&emsp;&emsp;2019级本科生&emsp;&emsp;河海大学（读研）</li>
-	<li>贾&emsp;贺&emsp;&emsp;2019级本科生&emsp;&emsp;东北大学 （读研）</li> 
+	<li>冯毓权&emsp;&emsp;2023界毕业生&emsp;&emsp;哈尔滨工业大学重庆研究院</li>
+	<li>陈文卓&emsp;&emsp;2023界毕业生&emsp;&emsp;大连海事大学（读研）</li>
+	<li>张语桐&emsp;&emsp;2023界毕业生&emsp;&emsp;河海大学（读研）</li>
+	<li>贾&emsp;贺&emsp;&emsp;2023界毕业生&emsp;&emsp;东北大学 （读研）</li> 
 	<br>
- 	<li>周思寒&emsp;&emsp;2018级本科生&emsp;&emsp;大连理工大学（硕博连读）</li>
-	<li>张之尧&emsp;&emsp;2018级本科生&emsp;&emsp;东北大学（读研）</li>
+ 	<li>周思寒&emsp;&emsp;2022界毕业生&emsp;&emsp;大连理工大学（硕博连读）</li>
+	<li>张之尧&emsp;&emsp;2022界毕业生&emsp;&emsp;东北大学（读研）</li>
 </ul>
 
 		<font face="微软雅黑" size=4><b>联系方式</b></font>
