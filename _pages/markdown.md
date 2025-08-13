@@ -58,6 +58,16 @@ redirect_from:
       <caption><font face="微软雅黑" size=4><b>发明专利</b></font></caption>
     </th>
   </tr>
+
+  <tr>
+    <td>
+      <img src="https://hpc-neau.github.io/zhoucj/images/专利证书-相互作用.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+    </td>
+    <td>
+      <img src="https://hpc-neau.github.io/zhoucj/images/专利证书-亲和力.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
+    </td>
+  </tr>
+  
   <tr>
     <td>
       <img src="https://hpc-neau.github.io/zhoucj/images/ZL_DCGAN.png" style="max-width: 100%; height: auto; width: 100%; max-width: 1200px;">
