@@ -37,6 +37,7 @@ redirect_from:
 <br>
 <font face="微软雅黑" size=4><b>相关媒体报道</b></font>
 <ul>
+  <li><a href="https://www.neau.edu.cn/info/1057/33693.htm">AI药物设计组或第三届IPv6技术应用创新大赛科教赛道全国一等奖</a></li>
   <li><a href="https://www.neau.edu.cn/info/1041/17070.htm">东北农业大学校园网主页报道AI组指导教师周长建获全国高等农业院校先进工作者称号</a></li>
   <li><a href="https://nic.nefu.edu.cn/info/1017/1443.htm">AI组指导教师周长建受邀为东北林业大学数字化建设处做信息化建设工作和数据治理工作交流</a></li>
   <li><a href="https://www.edu.cn/xxh/zt/29cernet/dt/202311/t20231129_2535497.shtml">AI组指导教师周长建受邀在中国教育和科研计算机网CERNET第二十八/二十九届学术年会网络安全论坛上作报告</a></li>
@@ -48,6 +49,7 @@ redirect_from:
   <li><a href="https://www.my399.com/2024/11-18/n1KA65GD.html">哈尔滨新闻网报道AI组成员在第二届IPv6技术应用创新大赛科教赛道再创佳绩</a></li>
   <li><a href="https://www.neau.edu.cn/info/1057/26665.htm">AI组成员储李节同学荣获东北农业大学2024年大学生年度人物称号</a></li>
 </ul>
+
 
 
 
