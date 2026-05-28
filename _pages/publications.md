@@ -44,9 +44,11 @@ redirect_from:
 
 		<font face="微软雅黑" size=4><b>发表论文</b></font>
 <ul>
-	
-	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI)</li>
-	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI)</li>
+	<li> Lu Yu, Yutong Liu, Wensheng Xiang*, <b>Changjian Zhou*</b>. MambaCell: A Self-Supervised Mamba Framework for Multi-Task Cell Representation Learning. IEEE Journal of Biomedical and Health Informatics. 2026.05. (SCI/Q1)</li>
+	<li> <b>Changjian Zhou</b>, Yutong Liu, Lu Yu, Zhenyuan Zhao, Jia Song*, and Wensheng Xiang*. Multi-domain based heterogeneous network for drug-target interaction prediction.  Artificial Intelligence in Medicine.  2026.07:103245. (SCI Q1)</li>
+	<li> Lijie Chu, Yiqian Zhang, Yuexi Qiu, Jinge Xing, <b>Changjian Zhou*</b>. Multi-View based Network for Malware Classification. Engineering Applications of Artificial Intelligence. vol.174, 2026.06:114580 (SCI Q1)</li>
+	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song * , and Wensheng Xiang * .  Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI Q1)</li>
+	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI Q1)</li>
 	<li> Yiqian Zhang, <b>Changjian Zhou</b> * . PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
 	<li> <b>Changjian Zhou</b>, et al, and Wensheng Xiang * . Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering, 2024, https://doi.org/10.4081/jae.2024.1595. (SCI). </li>
  	<li> <b>Changjian Zhou</b>, et al. Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. Vol. 21, No. 2, pp. 114-124, Apr. 2025.(EI/ESCI) </li>
