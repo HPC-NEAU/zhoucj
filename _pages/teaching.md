@@ -41,16 +41,11 @@ redirect_from:
 	<li>王文慧&emsp;&emsp;2024级硕士研究生</li>
 </ul>
 
-	 <font face="微软雅黑" size=4><b>客座学生</b></font>
-<ul>
-	<li>李嘉丰&emsp;&emsp;研究生&emsp;&emsp;Cornell University</li>
-</ul>
-
 		<font face="微软雅黑" size=4><b>毕业生及去向</b></font>
-
 <ul>
 	<li>邱玥曦&emsp;&emsp;2026界毕业生&emsp;&emsp;浙江大学大学（读研）</li>
 	<li>余&emsp;璐&emsp;&emsp;2026界毕业生&emsp;&emsp;重庆大学（读研）</li>
+	<br>
 	<li>张&emsp;鑫&emsp;&emsp;2025界毕业生&emsp;&emsp;吉林大学（读研）</li>
 	<li>李中正&emsp;&emsp;2025界毕业生&emsp;&emsp;北京理工大学（读研）</li>
 	<li>储李节&emsp;&emsp;2025界毕业生&emsp;&emsp;中国科学技术大学（读研）</li>
