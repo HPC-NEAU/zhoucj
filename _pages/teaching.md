@@ -14,8 +14,7 @@ redirect_from:
   		<font face="微软雅黑" size=4><b>研究生招生</b></font>
 <ul>
 	<li>智能科学与工程学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
-	<li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术型硕士研究生（协助培养）</li>
-	<li>工程学院&emsp;&emsp;&emsp;&emsp;工业工程与管理&emsp;&emsp;专业型硕士研究生（已停招）</li>
+	<li>农业装备与能源工程学院&emsp;&emsp;&emsp;&emsp;工业工程与管理&emsp;&emsp;专业型硕士研究生（已停招）</li>
 </ul>
 
 		<font face="微软雅黑" size=4><b>本科实习生招生</b></font>
