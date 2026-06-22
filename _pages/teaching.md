@@ -13,7 +13,7 @@ redirect_from:
 	<font face="微软雅黑" size=3>
   		<font face="微软雅黑" size=4><b>研究生招生</b></font>
 <ul>
-	<li>文理学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
+	<li>智能科学与工程学院&emsp;&emsp;&emsp;&emsp;应用统计&emsp;&emsp;&emsp;&emsp;&emsp;专业型硕士研究生</li>
 	<li>生命科学学院&emsp;&emsp;微生物学&emsp;&emsp;&emsp;&emsp;&emsp;学术型硕士研究生（协助培养）</li>
 	<li>工程学院&emsp;&emsp;&emsp;&emsp;工业工程与管理&emsp;&emsp;专业型硕士研究生（已停招）</li>
 </ul>
@@ -25,20 +25,20 @@ redirect_from:
 </ul>
 		<font face="微软雅黑" size=4><b>课程教学</b></font>
 <ul>
-	<li>计算生物学&emsp;&emsp;&emsp;&emsp;研究生课程</li>
+	<li>数据治理&emsp;&emsp;&emsp;&emsp;研究生课程</li>
+	<li>计算生物学&emsp;&emsp;&emsp;&emsp;研究生课程</li>	
 	<li>数据为王&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
 	<li>计算之美&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
 </ul>  
 	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
 <ul>
+	<li>赵雨欣&emsp;&emsp;2026级硕士研究生</li>
+	<li>张欣悦&emsp;&emsp;2026级硕士研究生</li>	
 	<li>王硕祥&emsp;&emsp;2025级硕士研究生</li>
 	<li>张钰童&emsp;&emsp;2025级硕士研究生</li>
 	<li>刘禹彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>凌彤彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>王文慧&emsp;&emsp;2024级硕士研究生</li>
-	<br>
-	<li>邱玥曦&emsp;&emsp;2022级本科生</li>
-	<li>余&emsp;璐&emsp;&emsp;2022级本科生</li>
 </ul>
 
 	 <font face="微软雅黑" size=4><b>客座学生</b></font>
@@ -49,6 +49,8 @@ redirect_from:
 		<font face="微软雅黑" size=4><b>毕业生及去向</b></font>
 
 <ul>
+	<li>邱玥曦&emsp;&emsp;2026界毕业生&emsp;&emsp;浙江大学大学（读研）</li>
+	<li>余&emsp;璐&emsp;&emsp;2026界毕业生&emsp;&emsp;重庆大学（读研）</li>
 	<li>张&emsp;鑫&emsp;&emsp;2025界毕业生&emsp;&emsp;吉林大学（读研）</li>
 	<li>李中正&emsp;&emsp;2025界毕业生&emsp;&emsp;北京理工大学（读研）</li>
 	<li>储李节&emsp;&emsp;2025界毕业生&emsp;&emsp;中国科学技术大学（读研）</li>
