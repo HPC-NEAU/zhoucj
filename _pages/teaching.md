@@ -25,7 +25,7 @@ redirect_from:
 </ul>
 		<font face="微软雅黑" size=4><b>课程教学</b></font>
 <ul>
-	<li>数据治理&emsp;&emsp;&emsp;&emsp;研究生课程</li>
+	<li>数据治理&emsp;&emsp;&emsp;&emsp;&emsp;研究生课程</li>
 	<li>计算生物学&emsp;&emsp;&emsp;&emsp;研究生课程</li>	
 	<li>数据为王&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
 	<li>计算之美&emsp;&emsp;&emsp;&emsp;&emsp;本科生通识课</li>
