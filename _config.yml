@@ -22,7 +22,7 @@ repository               : "hpc-neau.github.io/zhoucj"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AI_Group.png"
+  avatar           : "profile.png"
   name             : "周长建"
   pronouns         : # example: "男"  
   bio              : "高级工程师<br>系统分析师<br>硕士研究生导师"
