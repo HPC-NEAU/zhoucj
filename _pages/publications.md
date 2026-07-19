@@ -45,27 +45,27 @@ redirect_from:
 		<font face="微软雅黑" size=4><b>发表论文</b></font>
 <ul>
 	<li> Lu Yu, Yutong Liu, Wensheng Xiang*, <b>Changjian Zhou*</b>. MambaCell: A Self-Supervised Mamba Framework for Multi-Task Cell Representation Learning. <em>IEEE Journal of Biomedical and Health Informatics</em>. 2026.05. (SCI Q1)</li>
-	<li> <b>Changjian Zhou</b>, Yutong Liu, Lu Yu, Zhenyuan Zhao, Jia Song*, and Wensheng Xiang*. Multi-domain based heterogeneous network for drug-target interaction prediction.  Artificial Intelligence in Medicine.  2026.07:103245. (SCI Q1)</li>
-	<li> Lijie Chu, Yiqian Zhang, Yuexi Qiu, Jinge Xing, <b>Changjian Zhou*</b>. Multi-View based Network for Malware Classification. Engineering Applications of Artificial Intelligence. vol.174, 2026.06:114580. (SCI Q1)</li>
-	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song*, and Wensheng Xiang*. Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI Q1)</li>
-	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. Computer Methods and Programs in Biomedicine. 2024,244, 108003.(SCI Q1)</li>
-	<li> <b>Changjian Zhou</b>, Shuoxiang Wang, Yujie Zhong, and Wensheng Xiang*. TransGAT-DTI: transformer and graph attention network for drug-target interaction prediction. Journal of Computational Biology. Journal of Computational Biology. (SCI)</li>	
-	<li> Yiqian Zhang, <b>Changjian Zhou</b>*. PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. Journal of Bioinformatics and Computational Biology. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
-	<li> <b>Changjian Zhou</b>, et al, and Wensheng Xiang*. Residual attention based multi-label learning for apple leaf disease identification. Journal of Agricultural Engineering, 2024, https://doi.org/10.4081/jae.2024.1595. (SCI). </li>
- 	<li> <b>Changjian Zhou</b>, et al. Multi-feature Fusion for E-learning based Student Concentration Analysis. Journal of Information Processing Systems. Vol. 21, No. 2, pp. 114-124, Apr. 2025.(EI/ESCI) </li>
-  	<li> <b>Changjian Zhou</b>,et al. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method.J. Inst. Eng. India Ser. A,2024. https://doi.org/10.1007/s40030-024-00851-z. (EI)</li>
-	<li> <b>Changjian Zhou</b>, et al. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. IEEE Access. vol. 9, pp. 81902-81912, 2021. (SCI)</li>
-	<li> <b>Changjian Zhou</b>, et al. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. IEEE Access. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
-	<li> <b>Changjian Zhou</b>,et al. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. IEEE Access, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
-	<li><b>周长建</b>，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. 植物保护学报,2022,49(1):316-324. （中文核心/卓越期刊/CSCD/一级期刊/《植物保护学报》2024年度高被引论文）</li>
-	<li><b>周长建</b>，宋佳，向文胜. 人工智能在农药精准施药中的应用研究进展. 农药学学报,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
-	<li> <b>Changjian Zhou</b>, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, Journal of Information Processing Systems, vol. 17, no. 1, pp. 124-135, 2021. (EI)</li>
-	<li> <b>Changjian Zhou</b> , et al. Improved Deep Residual Network for Apple Leaf Disease Identification. Journal of Information Processing Systems. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
-	<li> <b>Changjian Zhou</b>,et al. Corp Leaf Disease Identification using Deep Transfer Learning. Journal of Information Processing Systems. vol. 20, no. 2, pp. 149-158, 2024.04.  (EI)</li>
-	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. Plant Disease. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
-	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. International Journal of Systematic and Evolutionary Microbiology. 2024.01.  (SCI)</li>
+	<li> <b>Changjian Zhou</b>, Yutong Liu, Lu Yu, Zhenyuan Zhao, Jia Song*, and Wensheng Xiang*. Multi-domain based heterogeneous network for drug-target interaction prediction.  <em>Artificial Intelligence in Medicine</em>.  2026.07:103245. (SCI Q1)</li>
+	<li> Lijie Chu, Yiqian Zhang, Yuexi Qiu, Jinge Xing, <b>Changjian Zhou*</b>. Multi-View based Network for Malware Classification. <em>Engineering Applications of Artificial Intelligence</em>. vol.174, 2026.06:114580. (SCI Q1)</li>
+	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song*, and Wensheng Xiang*. Rice leaf disease identification by Residual-distilled transformer. <em>Engineering Applications of Artificial Intelligence</em>. 2023(121):106020. (SCI Q1)</li>
+	<li><b>Changjian Zhou</b>, Zhongzheng Li, Jia Song, and Wensheng Xiang. TransVAE-DTA: Transformer and Variational Autoencoder for Drug-Target Binding Affinity Prediction. <em>Computer Methods and Programs in Biomedicine</em>. 2024,244, 108003.(SCI Q1)</li>
+	<li> <b>Changjian Zhou</b>, Shuoxiang Wang, Yujie Zhong, and Wensheng Xiang*. TransGAT-DTI: transformer and graph attention network for drug-target interaction prediction. <em>Journal of Computational Biology</em>. 2026.08,33(8):834-853. (SCI)</li>	
+	<li> Yiqian Zhang, <b>Changjian Zhou</b>*. PfgPDI: Pocket Feature-Enabled Graph Neural Network for Protein-Drug Interaction Prediction. <em>Journal of Bioinformatics and Computational Biology</em>. Vol. 22, No. 02, 2450004, 2024.05.30. (SCI) </li>
+	<li> <b>Changjian Zhou</b>, et al, and Wensheng Xiang*. Residual attention based multi-label learning for apple leaf disease identification. <em>Journal of Agricultural Engineering</em>, 2024, https://doi.org/10.4081/jae.2024.1595. (SCI). </li>
+ 	<li> <b>Changjian Zhou</b>, et al. Multi-feature Fusion for E-learning based Student Concentration Analysis. <em>Journal of Information Processing Systems</em>. Vol. 21, No. 2, pp. 114-124, Apr. 2025.(EI/ESCI) </li>
+  	<li> <b>Changjian Zhou</b>,et al. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method.<em>J. Inst. Eng. India Ser. A</em>,2024. https://doi.org/10.1007/s40030-024-00851-z. (EI)</li>
+	<li> <b>Changjian Zhou</b>, et al. COVID-19 Detection based on Image Regrouping and ResNet-SVM Using Chest X-ray Images. <em>IEEE Access</em>. vol. 9, pp. 81902-81912, 2021. (SCI)</li>
+	<li> <b>Changjian Zhou</b>, et al. Grape Leaf Spot Identification under Limited Samples by Fine Grained-GAN. <em>IEEE Access</em>. vol. 9, pp. 100480-100489, 2021.(SCI)</li>
+	<li> <b>Changjian Zhou</b>,et al. Tomato Leaf Disease Identification by Restructured Deep Residual Dense Network. <em>IEEE Access</em>, vol. 9, pp. 28822-28831, 2021. (SCI)</li>
+	<li><b>周长建</b>，宋佳, 向文胜 * . 基于人工智能的作物病害识别研究进展. <em>植物保护学报</em>,2022,49(1):316-324. （中文核心/卓越期刊/CSCD/一级期刊/《植物保护学报》2024年度高被引论文）</li>
+	<li><b>周长建</b>，宋佳，向文胜. 人工智能在农药精准施药中的应用研究进展. <em>农药学学报</em>,2022, 24(05):1099-1107. （中文核心/CSCD）</li>
+	<li> <b>Changjian Zhou</b>, Jinge Xing, Haibo Liu. Multiple Properties-Based Moving Object Detection Algorithm, <em>Journal of Information Processing Systems</em>, vol. 17, no. 1, pp. 124-135, 2021. (EI)</li>
+	<li> <b>Changjian Zhou</b> , et al. Improved Deep Residual Network for Apple Leaf Disease Identification. <em>Journal of Information Processing Systems</em>. vol. 17, no. 6, pp. 1115-1126, 2021.12.(EI) </li>
+	<li> <b>Changjian Zhou</b>,et al. Corp Leaf Disease Identification using Deep Transfer Learning. <em>Journal of Information Processing Systems</em>. vol. 20, no. 2, pp. 149-158, 2024.04.  (EI)</li>
+	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. <em>Plant Disease</em>. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
+	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. <em>International Journal of Systematic and Evolutionary Microbiology</em>. 2024.01.  (SCI)</li>
 
-	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. 工业和信息化教育. (已接收). </li>
+	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. <em>工业和信息化教育</>. 2026, (4):19-23. </li>
 </ul>
 
 		<font face="微软雅黑" size=4><b>编著与教材</b></font>
