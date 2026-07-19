@@ -65,7 +65,7 @@ redirect_from:
 	<li> Xi Xu, Jingjing Li, Xilang Yang, Li Zhang, Shuo Wang, Guijin Shen, Hui Bing, Jialei, <b>Changjian Zhou</b>, Xiangjing Wang, Junwei Zhao , Wensheng Xiang. Epicoccum spp. causing maize leaf spot in Heilongjiang Province, China. <em>Plant Disease</em>. vol.106, no. 12, pp.3050-3060,2022.12.  (SCI) </li>
 	<li> Zishan Wang, Yan Xu, <b>Changjian Zhou</b>, Xiujun Sun, et al. Actinoplanes sandaracinus sp. nov., a novel ligninase- producing and cellulose-degrading actinobacterium isolated from soil. <em>International Journal of Systematic and Evolutionary Microbiology</em>. 2024.01.  (SCI)</li>
 
-	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. <em>工业和信息化教育</>. 2026, (4):19-23. </li>
+	<li><b>周长建</b>,等. 地方院校“七位一体”高性能计算人才培养模式研究. <em>工业和信息化教育</em>. 2026, (4):19-23. </li>
 </ul>
 
 		<font face="微软雅黑" size=4><b>编著与教材</b></font>
