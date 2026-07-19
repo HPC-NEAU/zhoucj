@@ -44,7 +44,7 @@ redirect_from:
 
 		<font face="微软雅黑" size=4><b>发表论文</b></font>
 <ul>
-	<li> Lu Yu, Yutong Liu, Wensheng Xiang*, <b>Changjian Zhou*</b>. MambaCell: A Self-Supervised Mamba Framework for Multi-Task Cell Representation Learning. IEEE Journal of Biomedical and Health Informatics. 2026.05. (SCI Q1)</li>
+	<li> Lu Yu, Yutong Liu, Wensheng Xiang*, <b>Changjian Zhou*</b>. MambaCell: A Self-Supervised Mamba Framework for Multi-Task Cell Representation Learning. <em>IEEE Journal of Biomedical and Health Informatics</em>. 2026.05. (SCI Q1)</li>
 	<li> <b>Changjian Zhou</b>, Yutong Liu, Lu Yu, Zhenyuan Zhao, Jia Song*, and Wensheng Xiang*. Multi-domain based heterogeneous network for drug-target interaction prediction.  Artificial Intelligence in Medicine.  2026.07:103245. (SCI Q1)</li>
 	<li> Lijie Chu, Yiqian Zhang, Yuexi Qiu, Jinge Xing, <b>Changjian Zhou*</b>. Multi-View based Network for Malware Classification. Engineering Applications of Artificial Intelligence. vol.174, 2026.06:114580. (SCI Q1)</li>
 	<li> <b>Changjian Zhou</b>, Yujie Zhong, Sihan Zhou, Jia Song*, and Wensheng Xiang*. Rice leaf disease identification by Residual-distilled transformer. Engineering Applications of Artificial Intelligence. 2023(121):106020. (SCI Q1)</li>
