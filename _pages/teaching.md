@@ -32,9 +32,9 @@ redirect_from:
 	 	<font face="微软雅黑" size=4><b>在读学生</b></font>
 <ul>
 	<li>赵雨欣&emsp;&emsp;2026级硕士研究生</li>
-	<li>张欣悦&emsp;&emsp;2026级硕士研究生</li>	
+	<li>张欣悦&emsp;&emsp;2026级硕士研究生</li><br>	
 	<li>王硕祥&emsp;&emsp;2025级硕士研究生</li>
-	<li>张钰童&emsp;&emsp;2025级硕士研究生</li>
+	<li>张钰童&emsp;&emsp;2025级硕士研究生</li><br>
 	<li>刘禹彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>凌彤彤&emsp;&emsp;2024级硕士研究生</li>
 	<li>王文慧&emsp;&emsp;2024级硕士研究生</li>
