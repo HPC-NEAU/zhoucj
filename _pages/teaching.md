@@ -52,7 +52,7 @@ redirect_from:
 	<li>张&emsp;扬&emsp;&emsp;2025界毕业生&emsp;&emsp;武汉大学（读研）</li>
 	<li>钟题声&emsp;&emsp;2025界毕业生&emsp;&emsp;深圳大学（读研）</li>
 	<li>王&emsp;旭&emsp;&emsp;2025界毕业生&emsp;&emsp;同济大学（读研）</li>
-	<li>闫笑川&emsp;&emsp;2025界毕业生&emsp;&emsp;待定</li>
+	<li>闫笑川&emsp;&emsp;2025界毕业生&emsp;&emsp; </li>
 	<br>
 	<li>赵振元&emsp;&emsp;2024界毕业生&emsp;&emsp;山东大学（读研）</li>
 	<li>徐国桓&emsp;&emsp;2024界毕业生&emsp;&emsp;华南理工大学（读研）</li>
